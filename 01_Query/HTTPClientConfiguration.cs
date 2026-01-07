@@ -17,7 +17,6 @@ public class HttpClientClass
         catch (HttpRequestException exception)
         {
             return $"Request error: {exception.Message}";
-        }
-        
+        } 
     }
 }
