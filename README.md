@@ -1,1 +1,1 @@
-# Recreating this from an old project which is vibe coded. I will succeed.
+# Recreating this from an old project which is vibe coded.
