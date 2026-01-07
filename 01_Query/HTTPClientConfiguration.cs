@@ -1,6 +1,6 @@
 ﻿//HttpClient Docs: https://learn.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=net-10.0
 //Provides a class for sending HTTP requests and receiving HTTP responses from a resource identified by a URI.
-public class HttpClientClass
+public static class HttpClientClass
 {
     // HttpClient is intended to be instantiated once per application, rather than per-use.
     static readonly HttpClient client = new HttpClient();
